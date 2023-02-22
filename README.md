@@ -1,2 +1,2 @@
 # WeatherApp
-Web del tiempo con la api de OpenWeather
+Web del tiempo con la API de OpenWeather
